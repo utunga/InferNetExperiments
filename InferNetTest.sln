@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferNetTest", "InferNetTest\InferNetTest.csproj", "{EAE36976-99CF-4838-B749-7962310ABB59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqInferTest", "InferNetTest\LinqInferTest.csproj", "{EAE36976-99CF-4838-B749-7962310ABB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{CFAACA8F-A85D-4A2A-B26E-019ECC2ABF0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EAE36976-99CF-4838-B749-7962310ABB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAE36976-99CF-4838-B749-7962310ABB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAE36976-99CF-4838-B749-7962310ABB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFAACA8F-A85D-4A2A-B26E-019ECC2ABF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAACA8F-A85D-4A2A-B26E-019ECC2ABF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAACA8F-A85D-4A2A-B26E-019ECC2ABF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAACA8F-A85D-4A2A-B26E-019ECC2ABF0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
